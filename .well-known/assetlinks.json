@@ -1,0 +1,9 @@
+[{
+  relation: [delegate_permission/common.handle_all_urls],
+  target: {
+    namespace: android_app,
+    package_name: online.kapowai.identificationsdk,
+    sha256_cert_fingerprints:
+    [87:BB:87:D0:E5:BF:3E:28:44:CF:CE:6C:A4:C0:B5:68:88:0E:5D:90:55:F1:40:22:DF:53:1E:34:8B:1D:AF:77]
+  }
+}]
